@@ -1,0 +1,19 @@
+{
+    "name": "elm-style-elements-exercise",
+    "version": "1.0.0",
+    "description":
+        "This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "start": "elm-app start",
+        "test": "elm-app test"
+    },
+    "author": "Ingar Almklov",
+    "license": "ISC",
+    "dependencies": {
+        "create-elm-app": "^1.10.4"
+    }
+}

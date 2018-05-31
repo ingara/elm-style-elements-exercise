@@ -20,3 +20,8 @@ Standards-compliant deliver folksonomies webservices visionary. Mission-critical
 
 Facilitate next-generation e-markets for tomorrow. Today.
 ```
+
+## Useful links
+
+*   [Official gitbook](https://mdgriffith.gitbooks.io/style-elements/content/)
+*   [style-elements on package.elm-lang.org](http://package.elm-lang.org/packages/mdgriffith/style-elements/latest)
